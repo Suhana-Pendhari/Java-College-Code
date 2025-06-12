@@ -1,0 +1,4 @@
+In Data Structures, a graph is a non-linear structure consisting of nodes 
+and edges. Graphs are used to represent networks like social media, maps, 
+and computer networks. They can be directed or undirected, weighted or 
+unweighted, and are often implemented using adjacency matrices or lists.
